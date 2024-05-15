@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Mongodb aggregation**
 
-- 💬 Ask me about **Javascript, Node js, Express js, Mongodb**
+- 💬 Ask me about **Javascript, Node js, Express js, Mongodb, Mysql**
 
 - 📫 How to reach me **ubaid29170@gmail.com**
 
