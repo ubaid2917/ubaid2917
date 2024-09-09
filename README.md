@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **SAAS (E-commerce)**
 
-- 🌱 I’m currently learning **JavaScript, Mongodb aggregation**
+- 🌱 I’m currently learning **JavaScript, MongoDB aggregation**
 
-- 💬 Ask me about **Javascript, Node js, Express js, Mongodb, Mysql**
+- 💬 Ask me about **Javascript, Node js, Express js, MongoDB, Mysql**
 
 - 📫 How to reach me **ubaid29170@gmail.com**
 
