@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working **Short Video App**
-- 🌱 I’m currently learning **Sequelize, PostgreSql**
+- 🌱 I’m currently learning **Nest.Js, PostgreSql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ubaid2917](https://github.com/ubaid2917)
 
