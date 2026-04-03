@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d2ff&height=200&section=header&text=Ubaid%20Naeem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20NestJS%20%7C%20Pakistan%20🇵🇰&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d2ff&height=200&section=header&text=Ubaid%20Naeem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20NestJS%20%7C%20Pakistan%20🇵🇰&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
@@ -22,121 +22,80 @@
   <img src="https://komarev.com/ghpvc/?username=ubaid2917&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 </div>
 
----
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+---
 
 ## 👨‍💻 About Me
 
 ```typescript
-const ubaid = {
-  name: "Ubaid Naeem",
-  role: "Backend Engineer",
-  location: "Pakistan 🇵🇰",
-  currentProject: "Short Video App 🎬",
-  learning: ["React", "AWS", "Docker"],
-  expertise: ["Node.js", "NestJS", "Express.js"],
-  askMeAbout: ["REST APIs", "Microservices", "DB Design"],
-  contact: "ubaid29170@gmail.com",
-  funFact: "I turn coffee into scalable APIs ☕"
-};
+const Ubaid = {
+  name        : "Ubaid Naeem",
+  experience  : "Backend Engineer",
+  location    : "Lahore, Pakistan 🇵🇰",
+  education   : "Computer Science",
+  work        : [
+    "Backend Engineer @ Short Video App (Lahore, Pakistan)",
+  ],
+  expertise   : ["Node.js", "NestJS", "Express.js", "TypeScript", "PostgreSQL", "MongoDB"],
+  goal        : "To build scalable, clean and high-performance backend systems",
+  askMeAbout  : ["REST APIs", "Microservices", "Database Design", "Backend Architecture"],
+  contact     : "ubaid29170@gmail.com",
+}
 ```
 
-<br clear="right"/>
+---
+
+## 🔧 Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 What I'm Up To
+## 🤔 What I am Up To
 
-- 🔭 Building a **Short Video App** — real-time feeds, media pipelines & CDN delivery
-- 🌱 Leveling up in **React**, **AWS** & **Docker**
-- 💡 Passionate about **clean architecture** & **high-performance APIs**
-- 💬 Always happy to discuss **Node.js · NestJS · Express.js**
-- 📫 Reach me at **ubaid29170@gmail.com**
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="start">
-
-### ⚡ Backend & Languages
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 🎨 Frontend & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+- 🌱 Currently building a **Short Video App** — media pipelines, real-time feeds & CDN delivery
+- 👀 Interested in **clean architecture**, **microservices** and **distributed systems**
+- 💞️ Looking to collaborate on anything that can help me grow!
+- 📫 Reach out to me at &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ubaidnaeem)
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubaid2917&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaid2917&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaid2917&theme=highcontrast&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaid2917&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaid2917&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="start">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubaid2917&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubaid2917&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" />
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="start">
-  <img src="https://github-profile-trophy.vercel.app/?username=ubaid2917&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="start">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ubaid2917/ubaid2917/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ubaid2917/ubaid2917/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ubaid2917/ubaid2917/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 💭 Dev Quote of the Day
-
-<div align="start">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="start">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:0e75b6&height=120&section=footer" />
-</div>
